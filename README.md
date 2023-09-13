@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/jvitor211/)
 
 <h1 align="center">Hi 👋, I'm João Barbosa</h1>
-<h3 align="center">Dev Mobile | Analyst Cyber Security Jr | Ethical Hacker</h3>
+<h3 align="center">C# | Asp.NET | MVC | Cyber Security | Ethical Hacker | Computer Forensics | Malware Research</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/hEAhoaN.gif">
 
