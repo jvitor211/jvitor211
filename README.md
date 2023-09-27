@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/jvitor211/)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FLuisCSGuimaraes&psig=AOvVaw10lS4BU5nP2E0vmOZiisZw&ust=1695917068286000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOi_qsWVy4EDFQAAAAAdAAAAABAJ)](https://github.com/jvitor211/)
 
 <h1 align="center">Hi 👋, I'm João Barbosa</h1>
 <h3 align="center">C# | Asp.NET | MVC | Cyber Security | Ethical Hacker | Computer Forensics | Malware Research</h3>
