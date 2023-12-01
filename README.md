@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/clips/AnimationOnFOX-the-simpsons-fox-foxtv-KpJ47gKe6b7v7xQyWj)](https://github.com/jvitor211/)
+[![MasterHead]()](https://github.com/jvitor211/)
 
 <h1 align="center">Hi 👋, I'm João Barbosa</h1>
 <h3 align="center">C# | Asp.NET | MVC | Cyber Security | Ethical Hacker | Computer Forensics | Malware Research</h3>
