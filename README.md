@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/KmHueA88mFABT9GkkR/giphy.gif))](https://github.com/jvitor211/)
+[![MasterHead](https://media.giphy.com/media/KmHueA88mFABT9GkkR/giphy.gif)](https://github.com/jvitor211/)
 
 <h1 align="center">Hi 👋, I'm João Barbosa</h1>
 <h3 align="center">C# | Asp.NET | MVC | Cyber Security | Ethical Hacker | Computer Forensics | Malware Research</h3>
