@@ -1,4 +1,3 @@
-[![MasterHead](...)](https://github.com/jvitor211/)
 
 <h1 align="center"></h1>
 <h3 align="center">C# | Asp.NET | MVC | Cyber Security | Ethical Hacker | Computer Forensics | Malware Research</h3>
