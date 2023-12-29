@@ -1,6 +1,6 @@
 [![MasterHead](https://i.imgur.com/b4KhX20.gif)](https://github.com/jvitor211/)
 
-<h1 align="center">Hi 👋, I'm João Barbosa</h1>
+<h1 align="center"></h1>
 <h3 align="center">C# | Asp.NET | MVC | Cyber Security | Ethical Hacker | Computer Forensics | Malware Research</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/hEAhoaN.gif">
