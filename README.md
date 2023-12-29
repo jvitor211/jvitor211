@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/neoo1990" target="blank"><img src="https://img.shields.io/twitter/follow/neoo1990?logo=twitter&style=for-the-badge" alt="neoo1990" /></a> </p>
 
-- 🔭 I’m currently working on **Discord BOT Sagiri**
+- 🔭 I’m currently working on **Ransow Decryptor**
 
 - 🌱 I’m currently learning **Kotlin and React**
 
