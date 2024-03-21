@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Ransow Decryptor**
 
-- 🌱 I’m currently learning **Kotlin and React**
+- 🌱 I’m currently learning **JavaScript and C#**
 
 - 📫 How to reach me **sinopse0102@gmail.com**
 
