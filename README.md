@@ -1,6 +1,6 @@
 
 <h1 align="center"></h1>
-<h3 align="center">C# | Asp.NET | MVC | Cyber Security | Ethical Hacker | Computer Forensics | Malware Research</h3>
+<h3 align="center">Mobile Developer | JavaScript | Python| Cyber Security | Arduino | Computer Forensics | Malware Research</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/hEAhoaN.gif">
 
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/neoo1990" target="blank"><img src="https://img.shields.io/twitter/follow/neoo1990?logo=twitter&style=for-the-badge" alt="neoo1990" /></a> </p>
 
-- 🔭 I’m currently working on **Ransow Decryptor**
+- 🔭 I’m currently building **Proxy-Chain and VPN**
 
-- 🌱 I’m currently learning **JavaScript and C#**
+- 🌱 I’m currently learning **React and Next.Js**
 
 - 📫 How to reach me **sinopse0102@gmail.com**
 
