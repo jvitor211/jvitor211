@@ -1,6 +1,6 @@
 
 <h1 align="center"></h1>
-<h3 align="center">Mobile Developer | JavaScript | Python| Cyber Security | Arduino | Computer Forensics | Malware Research</h3>
+<h3 align="center">| JavaScript | Python| Cyber Security | Arduino | Computer Forensics | Malware Research</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/hEAhoaN.gif">
 
