@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="João Rondon — Software engineer, reverse engineering and legacy software. Founder of Rondon Labs." width="100%">
+<img src="assets/banner-cheshire-decompiler.svg" alt="João Rondon — Software engineer, reverse engineering and legacy software. Founder of Rondon Labs." width="100%">
 
 Software engineer working across **.NET, Python and React**, with a focus on **reverse engineering and legacy software**.
 Founder of [Rondon Labs](https://www.rondonlabs.com).
