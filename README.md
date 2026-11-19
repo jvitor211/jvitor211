@@ -17,7 +17,7 @@ Today, at Rondon Labs, I rescue legacy systems with no source code and connect o
 | [TheyListen](https://github.com/jvitor211/TheyListen) | Security research tool for CVE-2025-36911 (WhisperPair) in Google Fast Pair devices | Python · Bluetooth |
 | [PhotoSieve](https://github.com/jvitor211/PhotoSieve) | Suggests photos to delete by face similarity; never deletes on its own | FastAPI · MediaPipe · SwiftUI |
 | [wipeos](https://github.com/jvitor211/wipeos) | Secure file wiping with a terminal UI | Go |
-| [pessoas-desaparecidas](https://github.com/jvitor211/pessoas-desaparecidas-sistema-pleno) | Full stack case management for missing persons (technical project) | React · TypeScript |
+| [pessoas-desaparecidas](https://github.com/jvitor211/pessoas-desaparecidas-sistema-pleno) | Web app to search and follow up missing-persons cases via a REST API (technical project) | React · TypeScript |
 
 ### Stack
 
