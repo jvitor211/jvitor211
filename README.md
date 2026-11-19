@@ -21,8 +21,8 @@ Today, at Rondon Labs, I rescue legacy systems with no source code and connect o
 
 ### Stack
 
-**Backend:** C#, ASP.NET Core, Python, TypeScript, Node.js, SQL
-**Frontend:** React
-**Data:** PostgreSQL, SQL Server, RabbitMQ
-**Infra:** Azure, Docker, Linux, CI/CD, Cloudflare, Vercel, n8n
-**Security:** Ghidra, OSINT, digital forensics
+- **Backend:** C#, ASP.NET Core, Python, TypeScript, Node.js, SQL
+- **Frontend:** React
+- **Data:** PostgreSQL, SQL Server, RabbitMQ
+- **Infra:** Azure, Docker, Linux, CI/CD, Cloudflare, Vercel, n8n
+- **Security:** Ghidra, OSINT, digital forensics
